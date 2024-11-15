@@ -7,9 +7,16 @@ Steps:
 1.Import and read the CSV Data from the local folder           
 2.Check for the nulls in dataset and remove null values  
 3.Performing sentimental analysis on the comments dataset  
-4.Using textblob to analyse the sentiment of the data
-5.Wordcloud analysis
+4.Using textblob to analyse the sentiment of the data  
+5.Wordcloud analysis  
+  
+Positive Comments wordcloud:  
 
-<img width="407" alt="image" src="https://github.com/user-attachments/assets/2e3220ee-a357-4fc3-978d-91d7fa541937">
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/2e3220ee-a357-4fc3-978d-91d7fa541937">  
+  
+Negative Comment Wordcloud:  
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/025f0e06-f5ee-475f-a143-ec2f0ca07c7f">   
+
+
 
 
