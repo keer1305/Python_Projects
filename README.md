@@ -1,7 +1,7 @@
 # Python_Projects
 
 ## Project 1: 
-### YOUTUBE - TEXT DATA ANALYSIS
+## YOUTUBE - TEXT DATA ANALYSIS
 
 #### Steps:          
 1.Import and read the CSV Data from the local folder           
@@ -18,5 +18,6 @@
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/025f0e06-f5ee-475f-a143-ec2f0ca07c7f">   
 
 
+### Perform emoji Analysis
 
 
