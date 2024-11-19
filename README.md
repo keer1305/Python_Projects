@@ -9,6 +9,7 @@
 3.Performing sentimental analysis on the comments dataset  
 4.Using textblob to analyse the sentiment of the data  
 5.Wordcloud analysis  
+
   
 #### Positive Comments wordcloud Output:  
 
@@ -22,4 +23,6 @@
 <img width="793" alt="image" src="https://github.com/user-attachments/assets/d7584954-3757-4dd2-89aa-7b8c8237ef63">
 
 ### Collecting entire data of youtube
+
+concatenating all datasets in one big data frame 
 
