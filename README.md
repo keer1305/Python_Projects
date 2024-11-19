@@ -21,4 +21,5 @@
 ### Perform emoji Analysis
 <img width="793" alt="image" src="https://github.com/user-attachments/assets/d7584954-3757-4dd2-89aa-7b8c8237ef63">
 
+### Collecting entire data of youtube
 
