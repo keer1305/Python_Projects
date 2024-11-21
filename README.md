@@ -24,5 +24,5 @@
 
 ### Collecting entire data of youtube
 
-concatenating all datasets in one big data frame 
+concatenating all datasets in one big data frame , which will be easy to process in one dataframe
 
